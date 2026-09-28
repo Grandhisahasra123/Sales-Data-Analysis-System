@@ -23,7 +23,7 @@ This project analyzes and visualizes the sales data to identify important sales,
 * **Records:** 9,994
 * **Columns:** 21
 
-**Dataset Link:** [Superstore Sales Dataset – Kaggle](https://www.kaggle.com/rohitsahoo/sales-forecasting)
+**Dataset Link:** [Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Technologies Used
 
