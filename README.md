@@ -51,3 +51,4 @@ This project analyzes and visualizes the sales data to identify important sales,
 * `Superstore.csv` – Dataset
 * `requirements.txt` – Required Python libraries
 * `DAE_COMPLETE_PROJECT.pptx` – Project presentation
+* `visualizations` – Folder for project visualizations
