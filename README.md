@@ -47,7 +47,7 @@ This project analyzes and visualizes the sales data to identify important sales,
 
 ## Project Files
 
-* `Batch_15.ipynb(3)` – Project code and analysis
+* `Batch_15(3).ipynb` – Project code and analysis
 * `Superstore.csv` – Dataset
 * `requirements.txt` – Required Python libraries
-* `DAE_COMPLETE_PROJECT` – Project presentation
+* `DAE_COMPLETE_PROJECT.pptx` – Project presentation
